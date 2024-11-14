@@ -2,17 +2,12 @@
 <img src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/96/external-readme-is-a-easy-to-build-a-developer-hub-that-adapts-to-the-user-logo-regular-tal-revivo.png" align="right" width="30%" style="margin: -20px 0 0 20px;">
 <h1>AI-SUPPORT-FOR-MENTAL-HEALTH-WELLBEING</h1>
 <p align="left">
-	<em><code>❯ REPLACE-ME</code></em>
+	<em><code>❯ Designed to streamline your mental health journey, our AI therapist is here to offer round-the-clock support, addressing mental health-related queries, providing personalized reports, and helping you understand your stress level to ensure a smoother journey toward mental and emotional health.
+
+Resources
+</code></em>
 </p>
-<p align="left">
-	<!-- Shields.io badges disabled, using skill icons. --></p>
-<p align="left">Built with the tools and technologies:</p>
-<p align="left">
-	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=git,md">
-	</a></p>
-</div>
-<br clear="right">
+
 
 ##  Table of Contents
 
