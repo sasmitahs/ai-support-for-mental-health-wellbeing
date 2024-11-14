@@ -1,11 +1,7 @@
 <div align="left" style="position: relative;">
 <img src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/96/external-readme-is-a-easy-to-build-a-developer-hub-that-adapts-to-the-user-logo-regular-tal-revivo.png" align="right" width="30%" style="margin: -20px 0 0 20px;">
 <h1>AI-SUPPORT-FOR-MENTAL-HEALTH-WELLBEING</h1>
-<p align="left">
-	<em><code>❯ Designed to streamline your mental health journey, our AI therapist is here to offer round-the-clock support, addressing mental health-related queries, providing personalized reports, and helping you understand your stress level to ensure a smoother journey toward mental and emotional health.
 
-</code></em>
-</p>
 
 
 ##  Table of Contents
@@ -28,13 +24,15 @@
 
 ##  Overview
 
-<code>❯ REPLACE-ME</code>
+<code>❯  Designed to streamline your mental health journey, our AI therapist is here to offer round-the-clock support, addressing mental health-related queries, providing personalized reports, and helping you understand your stress level to ensure a smoother journey toward mental and emotional health.</code>
 
 ---
 
 ##  Features
 
-<code>❯ REPLACE-ME</code>
+<code>❯ Conversational Chatbot: The AI therapist allows users to interact through text or audio. It detects emotions from audio input using natural language processing (NLP) and sentiment analysis techniques. A report is generated to summarize the conversation, highlighting emotional cues and offering personalized feedback. </code>
+
+<code>❯ Stress Predictor: This feature predicts stress levels based on user inputs (text or audio). It uses machine learning algorithms to assess stress levels and provides personalized recommendations for managing and reducing stress, such as relaxation exercises or lifestyle adjustments. </code>
 
 ---
 
