@@ -58,46 +58,6 @@
 ```
 
 
-###  Project Index
-<details open>
-	<summary><b><code>AI-SUPPORT-FOR-MENTAL-HEALTH-WELLBEING/</code></b></summary>
-	<details> <!-- __root__ Submodule -->
-		<summary><b>__root__</b></summary>
-		<blockquote>
-			<table>
-			<tr>
-				<td><b><a href='https://github.com/sasmitahs/ai-support-for-mental-health-wellbeing/blob/master/bash_profile.txt'>bash_profile.txt</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/sasmitahs/ai-support-for-mental-health-wellbeing/blob/master/session_state.py'>session_state.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/sasmitahs/ai-support-for-mental-health-wellbeing/blob/master/app.py'>app.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/sasmitahs/ai-support-for-mental-health-wellbeing/blob/master/requirements.txt'>requirements.txt</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/sasmitahs/ai-support-for-mental-health-wellbeing/blob/master/predict_stress.py'>predict_stress.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/sasmitahs/ai-support-for-mental-health-wellbeing/blob/master/homepage.py'>homepage.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/sasmitahs/ai-support-for-mental-health-wellbeing/blob/master/chatbot.py'>chatbot.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			</table>
-		</blockquote>
-	</details>
-</details>
-
 ---
 ##  Getting Started
 
